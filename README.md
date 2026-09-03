@@ -59,3 +59,12 @@ Follow these steps to configure your environment and run the system.
    ```bash
    mkdir personal_finance_manager
    cd personal_finance_manager
+
+
+<img width="1402" height="483" alt="Screenshot 2026-08-31 191823" src="https://github.com/user-attachments/assets/0de1d091-a47e-4242-8b61-cf3717f33edd" />
+<img width="1421" height="587" alt="Screenshot 2026-08-31 191845" src="https://github.com/user-attachments/assets/ad8696e8-2987-4292-a14a-e6b5eb70eb3b" />
+<img width="1281" height="548" alt="Screenshot 2026-08-31 192025" src="https://github.com/user-attachments/assets/0bb66e9f-7ba9-48b5-a0f9-fbc029a1cee1" />
+<img width="802" height="548" alt="Screenshot 2026-08-31 192040" src="https://github.com/user-attachments/assets/f069d212-83e5-46d0-8d12-e6f2dc7f4a29" />
+<img width="837" height="542" alt="Screenshot 2026-08-31 192148" src="https://github.com/user-attachments/assets/e38e2b2d-e8e3-4572-ba90-bd70cd06e315" />
+<img width="786" height="491" alt="Screenshot 2026-08-31 192237" src="https://github.com/user-attachments/assets/42f61672-f78c-4179-bcde-51bf1eff322e" />
+<img width="722" height="518" alt="Screenshot 2026-08-31 192250" src="https://github.com/user-attachments/assets/6bcfeca4-d720-4a06-a229-5228bc5e1628" />
