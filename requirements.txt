@@ -1,0 +1,2 @@
+# No external dependencies required for the base application.
+# Add libraries here if testing or custom utilities are added later.
